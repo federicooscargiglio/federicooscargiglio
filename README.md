@@ -36,7 +36,6 @@ Currently seeking my first formal role in data analytics or BI.
 
 - Diplomado en Ciencias de Datos — UTN
 - Operations experience at Amazon (Dispatcher) — workforce planning, SLA monitoring, KPI reporting
-- Top ~300 in Kaggle NLP competition
 - Languages: Spanish (native) · English (B2+) · Italian (B2+)
 
 ---
