@@ -11,7 +11,7 @@ Currently seeking my first formal role in data analytics or BI.
 
 **Languages & tools**
 - Python (pandas, scikit-learn, matplotlib)
-- SQL (, MySQL)
+- SQL (MySQL)
 - Power BI
 
 **Areas**
